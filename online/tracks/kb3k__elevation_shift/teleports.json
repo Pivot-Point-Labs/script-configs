@@ -1,49 +1,20 @@
 {
     "triggers": [
-        [-53.61, 18.78, 133.58],
-        [21.06,0,-13.07],
-        [25.17,0,-13.10],
-        [29.13,0,-13.05]
+        [-53.61, 18.78, 133.58]
     ],
     "locations": {
         "Location 1": {
             "spawns": [
                 {
-                    "position": [25.18,0,-17.11],
+                    "position": [-96.22, 16.79, 126.81],
                     "heading": [0.36,0.00,-0.93]
                 },
                 {
-                    "position": [25.13,-0,-21.15],
-                    "heading": [0.36,0.00,-0.93]
-                },
-                {
-                    "position": [25.10,0,-25.18],
+                    "position": [-106.91, 14.24, 165.68],
                     "heading": [0.36,0.00,-0.93]
                 }
             ],
             "img": "https://files.catbox.moe/y4mlg8.png"
         },
-        "Location 2": {
-            "spawns": [
-                {
-                    "position": [21.09,0,-17.10],
-                    "heading": [0.36,0.00,-0.93]
-                },
-                {
-                    "position": [21.09,0,-21.10],
-                    "heading": [0.36,0.00,-0.93]
-                }
-            ],
-            "img": "https://files.catbox.moe/9vdiu1.png"
-        },
-        "Location 3": {
-            "spawns": [
-                {
-                    "position": [17.06,0,-17.04],
-                    "heading": [-0.978682, 0.201236, -0.0410538]
-                }
-            ],
-            "img": "https://files.catbox.moe/00tlo7.png"
-        }
     }
 }
